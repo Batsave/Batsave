@@ -25,44 +25,26 @@ Je conçois et développe des interfaces web soignées, de la maquette au déplo
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>BS Studio</h3>
-      <p>Portfolio, articles techniques et retours d'expérience.</p>
-      <a href="https://bs-studio.fr">bs-studio.fr →</a><br/>
+      <a href="https://github.com/Batsave/downloader-studio">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Batsave&repo=downloader-studio&bg_color=0a0a0a&title_color=F0A533&icon_color=E44F0A&text_color=a0a0a0&hide_border=true&border_color=0a0a0a" alt="downloader-studio" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>Mes réseaux</h3>
-      <p>Tous mes liens et réseaux sociaux au même endroit.</p>
-      <a href="https://bs-studio.fr">bs-studio.fr →</a><br/>
+      <a href="https://github.com/Batsave/project-timeline">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Batsave&repo=project-timeline&bg_color=0a0a0a&title_color=F0A533&icon_color=E44F0A&text_color=a0a0a0&hide_border=true&border_color=0a0a0a" alt="project-timeline" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>downloader-studio</h3>
-      <p>Téléchargeur de médias avec file d'attente. <br/> Design, Gratuit et Open Source <br/> MacOS / Windows / Linux</p>
-      <a href="https://github.com/Batsave/downloader-studio">Voir le repo →</a><br/>
+      <a href="https://github.com/Batsave/DEV-Recap">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Batsave&repo=DEV-Recap&bg_color=0a0a0a&title_color=F0A533&icon_color=E44F0A&text_color=a0a0a0&hide_border=true&border_color=0a0a0a" alt="DEV-Recap" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>project-timeline</h3>
-      <p>Extension VS Code<br/>
-      Suivi du temps de dev par projet (Claude Code / Codex CLI, tokens & coûts, git, tests), 100% local.</p>
-      <a href="https://github.com/Batsave/project-timeline">Voir le repo →</a><br/>
-    </td>
-    
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>DEV-Recap</h3>
-      <p>Documentation<br/>
-      Site reprenant les bases du développement web, réalisé pendant ma formation.</p>
-      <a href="https://github.com/Batsave/DEV-Recap">Voir le repo →</a> <br/>
-      <a href="https://dev.batsave.tv">Voir le site →</a><br/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>UIX-Recap</h3>
-      <p>Documentation<br/>
-      Site reprenant les bases du design UX/UI, réalisé pendant ma formation.</p>
-      <a href="https://github.com/Batsave/UIX-Recap">Voir le repo →</a> <br/>
-      <a href="https://uix.batsave.tv">Voir le site →</a><br/>
+      <a href="https://github.com/Batsave/UIX-Recap">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Batsave&repo=UIX-Recap&bg_color=0a0a0a&title_color=F0A533&icon_color=E44F0A&text_color=a0a0a0&hide_border=true&border_color=0a0a0a" alt="UIX-Recap" />
+      </a>
     </td>
   </tr>
 </table>
@@ -109,7 +91,11 @@ Je code aussi avec l'assistance d'outils IA (Claude Code, etc.) pour aller plus 
 
 ## Derniers articles
 
+<table>
+  <tr>
 <!-- BLOG-POST-LIST:START -->
-- [Comment l&#39;IA a transformé ma vision du développement](https://bs-studio.fr/blog/ia-a-change-ma-vision-du-developpement/)
-- [Penser la protection des données avant d&#39;écrire la première ligne : le cas de Quests](https://bs-studio.fr/blog/rgpd-by-design-quests/)
+    <td width="50%" valign="top"><h3>Comment l'IA a transformé ma vision du développement</h3><p>Sorti d'une formation dev il y a quelques mois à peine, j'ai vu l'IA générative arriver et changer ce que ça veut dire, coder.</p><a href="https://bs-studio.fr/blog/ia-a-change-ma-vision-du-developpement/">Lire l'article →</a></td>
+    <td width="50%" valign="top"><h3>Penser la protection des données avant d'écrire la première ligne : le cas de Quests</h3><p></p><a href="https://bs-studio.fr/blog/rgpd-by-design-quests/">Lire l'article →</a></td>
 <!-- BLOG-POST-LIST:END -->
+  </tr>
+</table>
