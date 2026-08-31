@@ -93,9 +93,6 @@ Je code aussi avec l'assistance d'outils IA (Claude Code, etc.) pour aller plus 
 
 <table>
   <tr>
-<!-- BLOG-POST-LIST:START -->
-    <td width="50%" valign="top"><h3>Comment l'IA a transformé ma vision du développement</h3><p>Sorti d'une formation dev il y a quelques mois à peine, j'ai vu l'IA générative arriver et changer ce que ça...</p><a href="https://bs-studio.fr/blog/ia-a-change-ma-vision-du-developpement/">Lire l'article →</a></td>
-    <td width="50%" valign="top"><h3>Penser la protection des données avant d'écrire la première ligne : le cas de Quests</h3><p>Comment j'ai conçu Quests, une application événementielle avec des participants mineurs, en plaçant le RGPD...</p><a href="https://bs-studio.fr/blog/rgpd-by-design-quests/">Lire l'article →</a></td>
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><td width="50%" valign="top"><h3>Comment l&#39;IA a transformé ma vision du développement</h3><p>Sorti d&#39;une formation dev il y a quelques mois à peine, j&#39;ai vu l&#39;IA générative arriver et changer ce que ça v...</p><a href="https://bs-studio.fr/blog/ia-a-change-ma-vision-du-developpement/">Lire l'article →</a></td><td width="50%" valign="top"><h3>Penser la protection des données avant d&#39;écrire la première ligne : le cas de Quests</h3><p>Comment j&#39;ai conçu Quests, une application événementielle avec des participants mineurs, en plaçant le RGPD au...</p><a href="https://bs-studio.fr/blog/rgpd-by-design-quests/">Lire l'article →</a></td><!-- BLOG-POST-LIST:END -->
   </tr>
 </table>
