@@ -99,12 +99,12 @@ Je code aussi avec l'assistance d'outils IA (Claude Code, etc.) pour aller plus 
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Batsave&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=F0A533&icon_color=E44F0A&text_color=a0a0a0" alt="Stats GitHub" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Batsave&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=F0A533&icon_color=E44F0A&text_color=a0a0a0" alt="Stats GitHub" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batsave&hide_border=true&background=0a0a0a&stroke=1a1a1a&ring=F0A533&fire=E44F0A&currStreakLabel=F0A533&sideLabels=a0a0a0&currStreakNum=f5f5f5&sideNums=f5f5f5&dates=8f8f8f" alt="Streak" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Batsave&bg_color=0a0a0a&color=F0A533&line=E44F0A&point=f5f5f5&area_color=0E6873&area=true&hide_border=true&custom_title=Activité%20journalière" alt="Graphe d'activité" width="100%" />
+  <img src="https://ghchart.rshah.org/E44F0A/Batsave" alt="Graphe de contributions" width="100%" />
 </div>
 
 ## Derniers articles
