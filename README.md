@@ -110,4 +110,6 @@ Je code aussi avec l'assistance d'outils IA (Claude Code, etc.) pour aller plus 
 ## Derniers articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment l&#39;IA a transformé ma vision du développement](https://bs-studio.fr/blog/ia-a-change-ma-vision-du-developpement/)
+- [Penser la protection des données avant d&#39;écrire la première ligne : le cas de Quests](https://bs-studio.fr/blog/rgpd-by-design-quests/)
 <!-- BLOG-POST-LIST:END -->
