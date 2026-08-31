@@ -27,25 +27,25 @@ Je conçois et développe des interfaces web soignées, de la maquette au déplo
     <td width="50%" valign="top">
       <h3>BS Studio</h3>
       <p>Portfolio, articles techniques et retours d'expérience.</p>
-      <a href="https://bs-studio.fr">bs-studio.fr →</a>
+      <a href="https://bs-studio.fr">bs-studio.fr →</a><br/>
     </td>
     <td width="50%" valign="top">
       <h3>Mes réseaux</h3>
       <p>Tous mes liens et réseaux sociaux au même endroit.</p>
-      <a href="https://bs-studio.fr">bs-studio.fr →</a>
+      <a href="https://bs-studio.fr">bs-studio.fr →</a><br/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>downloader-studio</h3>
       <p>Téléchargeur de médias avec file d'attente. <br/> Design, Gratuit et Open Source <br/> MacOS / Windows / Linux</p>
-      <a href="https://github.com/Batsave/downloader-studio">Voir le repo →</a>
+      <a href="https://github.com/Batsave/downloader-studio">Voir le repo →</a><br/>
     </td>
     <td width="50%" valign="top">
       <h3>project-timeline</h3>
       <p>Extension VS Code<br/>
       Suivi du temps de dev par projet (Claude Code / Codex CLI, tokens & coûts, git, tests), 100% local.</p>
-      <a href="https://github.com/Batsave/project-timeline">Voir le repo →</a>
+      <a href="https://github.com/Batsave/project-timeline">Voir le repo →</a><br/>
     </td>
     
   </tr>
@@ -55,14 +55,14 @@ Je conçois et développe des interfaces web soignées, de la maquette au déplo
       <p>Documentation<br/>
       Site reprenant les bases du développement web, réalisé pendant ma formation.</p>
       <a href="https://github.com/Batsave/DEV-Recap">Voir le repo →</a> <br/>
-      <a href="https://dev.batsave.tv">Voir le site →</a>
+      <a href="https://dev.batsave.tv">Voir le site →</a><br/>
     </td>
     <td width="50%" valign="top">
       <h3>UIX-Recap</h3>
       <p>Documentation<br/>
       Site reprenant les bases du design UX/UI, réalisé pendant ma formation.</p>
       <a href="https://github.com/Batsave/UIX-Recap">Voir le repo →</a> <br/>
-      <a href="https://uix.batsave.tv">Voir le site →</a>
+      <a href="https://uix.batsave.tv">Voir le site →</a><br/>
     </td>
   </tr>
 </table>
