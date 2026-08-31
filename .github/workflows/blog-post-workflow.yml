@@ -18,4 +18,5 @@ jobs:
         with:
           feed_list: "https://bs-studio.fr/rss.xml"
           max_post_count: 2
+          description_max_length: 110
           template: "<td width=\"50%\" valign=\"top\"><h3>$title</h3><p>$description</p><a href=\"$url\">Lire l'article →</a></td>"
